@@ -1,0 +1,7 @@
+-c requirements.txt
+Commitizen
+pip-tools
+isort
+black
+flake8
+mypy
